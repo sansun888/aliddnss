@@ -4,8 +4,8 @@
 #Dependences: curl, openssl-util, tr, sort
 
 ## ----- Setting -----
-AccessKeyId="LTAI4FhSkqofGkDb93KwtMDS"
-AccessKeySec="rfRTQenUZn1f6qJnfDpmnNc6UYoi2M"
+AccessKeyId=""
+AccessKeySec=""
 DomainRR="aaa"
 DomainName="ffing.cn"
 DomainType="A"
